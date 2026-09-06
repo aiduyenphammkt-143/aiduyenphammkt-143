@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 👤 About Me
+
+* 🚀 **Current Focus:** Deepening my expertise in Data Warehousing methodologies (Inmon vs. Kimball), advanced DAX optimization, and automating marketing spend performance tracking.
+* 💡 **My Philosophy:** Data is only as valuable as the stories it tells. I bridge the gap between technical data engineering and business strategy.
+* 💬 **Community:** Active contributor to data communities, sharing knowledge on clearing up data terminology fog for everyone.
+* 🌱 **Learning:** Expanding my toolkit with Advanced SQL, BigQuery optimization, and Python for data science.
 <!--
 **aiduyenphammkt-143/aiduyenphammkt-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
