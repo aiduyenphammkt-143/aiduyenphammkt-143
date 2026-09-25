@@ -1,22 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Ai Duyen 👋
+
+### Data Analyst | Business Intelligence | Data-Driven Decision Making
+
+Data Analyst with 5+ years of experience in Commercial functions, including Marketing and Trade Marketing. I combine business understanding with analytics expertise to transform data into actionable insights that support strategic decision-making and business growth.
 
 ## 👤 About Me
 
-* 🚀 **Current Focus:** Deepening my expertise in Data Warehousing methodologies (Inmon vs. Kimball), advanced DAX optimization, and automating marketing spend performance tracking.
-* 💡 **My Philosophy:** Data is only as valuable as the stories it tells. I bridge the gap between technical data engineering and business strategy.
-* 💬 **Community:** Active contributor to data communities, sharing knowledge on clearing up data terminology fog for everyone.
-* 🌱 **Learning:** Expanding my toolkit with Advanced SQL, BigQuery optimization, and Python for data science.
-<!--
-**aiduyenphammkt-143/aiduyenphammkt-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Seeking opportunities as a Data Analyst, BI Analyst, or other data-driven decision support roles.
+- 🚀 Experienced in data modeling, dashboard development, reporting automation, and performance analytics.
+- 💡 Strong business acumen gained from 5+ years in Marketing & Trade Marketing.
+- 🗣️ Skilled in stakeholder communication, data storytelling, pitching, and executive presentations.
+- 🎯 Action-oriented with experience leading cross-functional projects and driving business impact.
+- 🌱 Continuously learning Data Warehousing, Advanced SQL, Python, and analytics best practices.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **Business Intelligence** | Power BI, DAX, Power Query, Excel |
+| **Data Warehousing & DB** | SQL Server, PostgreSQL |
+| **Programming** | Python |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels |
+
+## 📫 Connect with Me
+
+- LinkedIn: [Ai Duyen Pham](https://www.ai-duyen-pham-53589a159/
+- Email: aiduyenpham.mkt@gmail.com
+
+> "Turning data into insights, insights into actions, and actions into business results."
