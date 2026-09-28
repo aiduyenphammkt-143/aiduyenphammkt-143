@@ -24,7 +24,7 @@ Data Analyst with 5+ years of experience in Commercial functions, including Mark
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Ai Duyen Pham](https://www.ai-duyen-pham-53589a159/
+- LinkedIn: [Ai Duyen Pham](https://www.ai-duyen-pham-53589a159/)
 - Email: aiduyenpham.mkt@gmail.com
 
 > "Turning data into insights, insights into actions, and actions into business results."
