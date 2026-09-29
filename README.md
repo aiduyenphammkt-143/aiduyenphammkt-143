@@ -1,19 +1,19 @@
 # Hi there, I'm Ai Duyen 👋
 
-### Data Analyst | Business Intelligence | Data-Driven Decision Making
+### Data Analyst | Growth Analyst | Data-Driven Decision Making
 
 Data Analyst with 5+ years of experience in Commercial functions, including Marketing and Trade Marketing. I combine business understanding with analytics expertise to transform data into actionable insights that support strategic decision-making and business growth.
 
 ## 👤 About Me
 
-- 📊 Seeking opportunities as a Data Analyst, BI Analyst, or other data-driven decision support roles.
-- 🚀 Experienced in data modeling, dashboard development, reporting automation, and performance analytics.
-- 💡 Strong business acumen gained from 5+ years in Marketing & Trade Marketing.
-- 🗣️ Skilled in stakeholder communication, data storytelling, pitching, and executive presentations.
-- 🎯 Action-oriented with experience leading cross-functional projects and driving business impact.
-- 🌱 Continuously learning Data Warehousing, Advanced SQL, Python, and analytics best practices.
+* Seeking opportunities as a **Data Analyst, Growth Analyst, or other data-driven decision support roles**.
+* Experienced in data modeling, dashboard development, reporting automation, and performance analytics.
+* Strong business acumen gained from 5+ years in Marketing & Trade Marketing.
+* Skilled in stakeholder communication, data storytelling, pitching, and executive presentations.
+* Action-oriented with experience leading cross-functional projects and driving business impact.
+* Continuously learning Data Warehousing, Advanced SQL, Python, and analytics best practices.
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
 | Category | Tools & Technologies |
 |-----------|---------------------|
