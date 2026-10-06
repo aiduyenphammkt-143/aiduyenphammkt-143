@@ -19,8 +19,8 @@ Data Analyst with 5+ years of experience in Commercial functions, including Mark
 |-----------|---------------------|
 | **Business Intelligence** | Power BI, DAX, Power Query, Excel |
 | **Data Warehousing & DB** | SQL Server, PostgreSQL |
-| **Programming** | Python |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels) |
+| **Mathematics** | Statistics, Probabilities, Hypothesis testing |
 
 ## 📫 Connect with Me
 
